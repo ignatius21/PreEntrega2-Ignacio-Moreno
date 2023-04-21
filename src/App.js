@@ -22,9 +22,6 @@ function App() {
             <Route exact path="/testimoniales" element={<Testimonios />}></Route>
           </Routes>
           <Footer/>
-          <main>
-            
-          </main>
         </BrowserRouter>
     </>
   );
